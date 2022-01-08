@@ -1,25 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
-
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+import Quiz from "./container/quiz";
+const App=()=>{
+  return(
+    <div>
+      <div style={{width:"100%",height:"100px",backgroundColor:"black",display:"flex",justifyContent:"center",borderRadius:"11px"}}><h1>Quiz App</h1></div>
+       <Quiz/>
     </div>
-  );
+  )
 }
-
 export default App;
