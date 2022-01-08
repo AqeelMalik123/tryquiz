@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tryquiz/static/css/main.02a1f7f1.css",
+    "main.js": "/tryquiz/static/js/main.fd9322db.js",
+    "static/js/787.3feeba38.chunk.js": "/tryquiz/static/js/787.3feeba38.chunk.js",
+    "index.html": "/tryquiz/index.html",
+    "main.02a1f7f1.css.map": "/tryquiz/static/css/main.02a1f7f1.css.map",
+    "main.fd9322db.js.map": "/tryquiz/static/js/main.fd9322db.js.map",
+    "787.3feeba38.chunk.js.map": "/tryquiz/static/js/787.3feeba38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02a1f7f1.css",
+    "static/js/main.fd9322db.js"
+  ]
+}
